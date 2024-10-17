@@ -4,7 +4,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 # Load the pre-trained model
-MODEL_PATH = '/Users/lexiancheo/Desktop/babycry/trained_baby_cry_model.h5'
+MODEL_PATH = 'trained_baby_cry_model.h5'
 model = load_model(MODEL_PATH)
 
 # Define the labels
