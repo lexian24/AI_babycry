@@ -48,7 +48,7 @@ def add_vertical_space(lines=1):
         st.markdown("<br>", unsafe_allow_html=True)
 
 # Title with emoji
-st.markdown('<div class="title">👶 Baby Cry Sound Classifier 🎶</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">👶 Hey! Baby 🎶</div>', unsafe_allow_html=True)
 
 # Add spacing
 add_vertical_space(2)
