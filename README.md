@@ -9,7 +9,7 @@ The app is designed to provide a fun and engaging experience while demonstrating
 - **Real-time Prediction**: The app processes the audio file and provides an instant prediction about the possible reason for the baby's cry.
 - **Cute & Fun UI**: A playful, engaging interface with emoji-enhanced messages.
 
-## 📦 How to Run 
+## 📦 Product Demo 
 
 Visit 
 https://heybaby.streamlit.app/
